@@ -1,0 +1,6 @@
+requests
+pyewts
+uuid
+PyYaml
+pathlib
+rdflib

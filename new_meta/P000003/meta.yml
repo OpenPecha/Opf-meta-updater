@@ -1,0 +1,557 @@
+id: opecha:P000003
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W22083
+  title: བཀའ་འགྱུར། ༼ཧེ་མིས་བྲིས་མ།༽
+  author: ''
+  volumes: null
+  volume:
+    f9cb6d4f83104ed7b69bf3716ba69c86:
+      image_group_id: I3708
+      title: ''
+      volume_number: 1
+      total_pages: 918
+    4f67ef733f6a4e59a3dbc3ec6560dec7:
+      image_group_id: I3709
+      title: ''
+      volume_number: 2
+      total_pages: 896
+    f4b690d981154b43a427f7ab89f3e9a0:
+      image_group_id: I3710
+      title: ''
+      volume_number: 3
+      total_pages: 850
+    b1dfec203c5b4ccf979d75f36335b35b:
+      image_group_id: I3711
+      title: ''
+      volume_number: 4
+      total_pages: 836
+    5a6135eeb5c24840869bcacf420d6ac7:
+      image_group_id: I3712
+      title: ''
+      volume_number: 5
+      total_pages: 1042
+    8f611a178aff45ec8f9a79150a7017ec:
+      image_group_id: I3713
+      title: ''
+      volume_number: 6
+      total_pages: 1112
+    38eda71e80624cad83c0c6c59b140b8a:
+      image_group_id: I3714
+      title: ''
+      volume_number: 7
+      total_pages: 1118
+    3532b6d0699f4320af3da53997685a04:
+      image_group_id: I3715
+      title: ''
+      volume_number: 8
+      total_pages: 892
+    d2f6d5578e574a55b384d470e9eee416:
+      image_group_id: I3716
+      title: ''
+      volume_number: 9
+      total_pages: 938
+    ff4af1c2b7714342bae6c240beef0e67:
+      image_group_id: I3717
+      title: ''
+      volume_number: 10
+      total_pages: 976
+    9b2748f0dffb4299b2e7065fdbdebc36:
+      image_group_id: I3718
+      title: ''
+      volume_number: 11
+      total_pages: 842
+    981c909180264565adb3d923a94c7e23:
+      image_group_id: I3719
+      title: ''
+      volume_number: 12
+      total_pages: 914
+    bcd024209e22435eb72db9db44074450:
+      image_group_id: I3720
+      title: ''
+      volume_number: 13
+      total_pages: 740
+    c189918511eb4cf49e119ff9ecb4874f:
+      image_group_id: I3721
+      title: ''
+      volume_number: 14
+      total_pages: 792
+    f4793249fae3410a9c9c4ebb9a55d574:
+      image_group_id: I3722
+      title: ''
+      volume_number: 15
+      total_pages: 744
+    ad4e26a472bb4baaba5f2c2704573873:
+      image_group_id: I3723
+      title: ''
+      volume_number: 16
+      total_pages: 718
+    4411a2f6c6bf4d0ea5f2ebcd3219f623:
+      image_group_id: I3724
+      title: ''
+      volume_number: 17
+      total_pages: 782
+    5b8c45e4a5844cdbb418d76364e4c59a:
+      image_group_id: I3725
+      title: ''
+      volume_number: 18
+      total_pages: 724
+    2460a13c31404c9a8e93921bbf9a6e65:
+      image_group_id: I3726
+      title: ''
+      volume_number: 19
+      total_pages: 848
+    7eaa0982b59d4e3db29ba63fe894bd49:
+      image_group_id: I3727
+      title: ''
+      volume_number: 20
+      total_pages: 734
+    950701cf94434769958a3cbec28f9316:
+      image_group_id: I3728
+      title: ''
+      volume_number: 21
+      total_pages: 784
+    f71ae9e15285428594eb92004d57fc1b:
+      image_group_id: I3729
+      title: ''
+      volume_number: 22
+      total_pages: 748
+    73191125ab5e4f1fb3d7167e2b3860f9:
+      image_group_id: I3730
+      title: ''
+      volume_number: 23
+      total_pages: 742
+    f721b17ef34f4942a7515228e9f1c5d2:
+      image_group_id: I3731
+      title: ''
+      volume_number: 24
+      total_pages: 750
+    5caa2342c6524cef9f82cb35d09eaa63:
+      image_group_id: I3732
+      title: ''
+      volume_number: 25
+      total_pages: 692
+    e3101b1b98bb4e098bd0d7abadbcdac5:
+      image_group_id: I3733
+      title: ''
+      volume_number: 26
+      total_pages: 748
+    c5d3a29e579443299223514d1bf245f6:
+      image_group_id: I3734
+      title: ''
+      volume_number: 27
+      total_pages: 810
+    4606c25574ab4b30a32b75d59350eaab:
+      image_group_id: I3735
+      title: ''
+      volume_number: 28
+      total_pages: 738
+    abeff1f035d247a0bd8c24f1b1b835ff:
+      image_group_id: I3736
+      title: ''
+      volume_number: 29
+      total_pages: 742
+    97a4363764aa4125b684872e413a6014:
+      image_group_id: I3737
+      title: ''
+      volume_number: 30
+      total_pages: 676
+    5d5c72c4050841a58ade7f8ed06f56b0:
+      image_group_id: I3738
+      title: ''
+      volume_number: 31
+      total_pages: 716
+    257cbd0819434a5d94ce191d9fd94f97:
+      image_group_id: I3739
+      title: ''
+      volume_number: 32
+      total_pages: 716
+    60a3b165640a4386b31a3d2c4dc59469:
+      image_group_id: I3740
+      title: ''
+      volume_number: 33
+      total_pages: 712
+    81fbfb2b17a84042937603781d99c80b:
+      image_group_id: I3741
+      title: ''
+      volume_number: 34
+      total_pages: 628
+    73b1a706f3e241ceb5aedca706dc4716:
+      image_group_id: I3742
+      title: ''
+      volume_number: 35
+      total_pages: 842
+    60badf265ea94468807348cf5e132716:
+      image_group_id: I3743
+      title: ''
+      volume_number: 36
+      total_pages: 772
+    11b3571ed66b45a1a079212ea34a7c52:
+      image_group_id: I3744
+      title: ''
+      volume_number: 37
+      total_pages: 880
+    3aa2cdf718264c66bad86583de8ec0f9:
+      image_group_id: I3745
+      title: ''
+      volume_number: 38
+      total_pages: 922
+    1f60b5359bee4907b61eff6377ad1fa1:
+      image_group_id: I3746
+      title: ''
+      volume_number: 39
+      total_pages: 954
+    e784c5d04f304cc9900548614008d725:
+      image_group_id: I3747
+      title: ''
+      volume_number: 40
+      total_pages: 956
+    d3b787910a5747f085282c60533ac557:
+      image_group_id: I3748
+      title: ''
+      volume_number: 41
+      total_pages: 814
+    acb1a6e9959a460f89a2528571fa1791:
+      image_group_id: I3749
+      title: ''
+      volume_number: 42
+      total_pages: 770
+    f6d9d352b3c04f44b4427e5ee725b106:
+      image_group_id: I3750
+      title: ''
+      volume_number: 43
+      total_pages: 868
+    4d4773d1e901499eb7143509cd4cc1fe:
+      image_group_id: I3751
+      title: ''
+      volume_number: 44
+      total_pages: 796
+    7cb2124fe26f4c029bab411212b64a90:
+      image_group_id: I3752
+      title: ''
+      volume_number: 45
+      total_pages: 772
+    ba41a5136c014745ada0823c493a827c:
+      image_group_id: I3753
+      title: ''
+      volume_number: 46
+      total_pages: 806
+    2602b04e2696438d990fa759aeec01d3:
+      image_group_id: I3754
+      title: ''
+      volume_number: 47
+      total_pages: 792
+    cbdf4bf836a94941afbf26c0281bc107:
+      image_group_id: I3755
+      title: ''
+      volume_number: 48
+      total_pages: 592
+    c10d4aa1a264485da0b0976f0d3d4df4:
+      image_group_id: I3756
+      title: ''
+      volume_number: 49
+      total_pages: 590
+    fbce56184e634dc390442b4e404fd843:
+      image_group_id: I3757
+      title: ''
+      volume_number: 50
+      total_pages: 826
+    6157d4fccd0043029fcb291ade59bfea:
+      image_group_id: I3758
+      title: ''
+      volume_number: 51
+      total_pages: 590
+    7da2902038b34789bb696d4b16c6aae0:
+      image_group_id: I3759
+      title: ''
+      volume_number: 52
+      total_pages: 964
+    7f972bee633f4bc9b59640515839b736:
+      image_group_id: I3760
+      title: ''
+      volume_number: 53
+      total_pages: 870
+    ba13cdb11883423d8186c7b10df64910:
+      image_group_id: I3761
+      title: ''
+      volume_number: 54
+      total_pages: 734
+    4cd64ce7ad0d4a29b58958ec5fff5335:
+      image_group_id: I3762
+      title: ''
+      volume_number: 55
+      total_pages: 764
+    10e0790bb357473b9a6fc55381176abf:
+      image_group_id: I3763
+      title: ''
+      volume_number: 56
+      total_pages: 846
+    e8ec261036ce45dfae5bf8ff33535e7a:
+      image_group_id: I3764
+      title: ''
+      volume_number: 57
+      total_pages: 840
+    0ffc6926d9e64f3999b4754928ad9b31:
+      image_group_id: I3765
+      title: ''
+      volume_number: 58
+      total_pages: 868
+    e1d5b502e8ba4965a3ac5df8cc5b8cbe:
+      image_group_id: I3766
+      title: ''
+      volume_number: 59
+      total_pages: 822
+    a3ecf226e4e74405ad3cb165302e4eb1:
+      image_group_id: I3767
+      title: ''
+      volume_number: 60
+      total_pages: 822
+    512ead9def824a4b95969ad63107a427:
+      image_group_id: I3768
+      title: ''
+      volume_number: 61
+      total_pages: 812
+    01d4740d7d84477b84bfe1f161084b03:
+      image_group_id: I3769
+      title: ''
+      volume_number: 62
+      total_pages: 870
+    2a049e21bf7c47d68d81c5c0dbaed2f0:
+      image_group_id: I3770
+      title: ''
+      volume_number: 63
+      total_pages: 870
+    5ef538c9ef3944b08d7017a17b024e7e:
+      image_group_id: I3771
+      title: ''
+      volume_number: 64
+      total_pages: 798
+    5de18878d8a94584b27c2b5686e85436:
+      image_group_id: I3772
+      title: ''
+      volume_number: 65
+      total_pages: 854
+    86901034b75e46a39abd07b8d9b20079:
+      image_group_id: I3773
+      title: ''
+      volume_number: 66
+      total_pages: 784
+    78fb0e3291bf4e43bf27e910d47e8c6b:
+      image_group_id: I3774
+      title: ''
+      volume_number: 67
+      total_pages: 842
+    42806460e653429e88051bd538411522:
+      image_group_id: I3775
+      title: ''
+      volume_number: 68
+      total_pages: 810
+    3d492228f390456a95923bc446dfd009:
+      image_group_id: I3776
+      title: ''
+      volume_number: 69
+      total_pages: 850
+    3279cfe1c7de4d189d1d59e9c3376bfa:
+      image_group_id: I3777
+      title: ''
+      volume_number: 70
+      total_pages: 848
+    236a749f4d2549efa0b76ffd3483bdc1:
+      image_group_id: I3778
+      title: ''
+      volume_number: 71
+      total_pages: 818
+    b17c099c1b24496192b69c684afcf6e6:
+      image_group_id: I3779
+      title: ''
+      volume_number: 72
+      total_pages: 900
+    a57f7fbb3c67429f95e85c0ed62188e6:
+      image_group_id: I3780
+      title: ''
+      volume_number: 73
+      total_pages: 724
+    57048d750fc34f569dca6fb5c4480f5c:
+      image_group_id: I3781
+      title: ''
+      volume_number: 74
+      total_pages: 812
+    f8feae50c476466e930774b9ed4f4731:
+      image_group_id: I3782
+      title: ''
+      volume_number: 75
+      total_pages: 732
+    1e2234b2766945a4b7376356e7de869d:
+      image_group_id: I3783
+      title: ''
+      volume_number: 76
+      total_pages: 720
+    7b75840838fa44c5bf245a6026d1701b:
+      image_group_id: I3784
+      title: ''
+      volume_number: 77
+      total_pages: 754
+    28912e9b2a54482db179c8378b41913c:
+      image_group_id: I3785
+      title: ''
+      volume_number: 78
+      total_pages: 836
+    f8dde0d74ada49b0bb47123d3f3727cc:
+      image_group_id: I3786
+      title: ''
+      volume_number: 79
+      total_pages: 752
+    37696e7bc6024f25aafdc85375b4dc88:
+      image_group_id: I3787
+      title: ''
+      volume_number: 80
+      total_pages: 834
+    228f34c12454480db638ead04df38346:
+      image_group_id: I3788
+      title: ''
+      volume_number: 81
+      total_pages: 758
+    1c2ce305d3b343a4b76b60a622095191:
+      image_group_id: I3789
+      title: ''
+      volume_number: 82
+      total_pages: 764
+    9c7270d4a5c341b8948fd5fa3a89a807:
+      image_group_id: I3790
+      title: ''
+      volume_number: 83
+      total_pages: 748
+    4c4a9e26d4f24d1cbbb3672244e89a49:
+      image_group_id: I3791
+      title: ''
+      volume_number: 84
+      total_pages: 774
+    d46c2197341a48caaee2fc6b7123be22:
+      image_group_id: I3792
+      title: ''
+      volume_number: 85
+      total_pages: 846
+    5143e13e970d4fa48d913a330e00f742:
+      image_group_id: I3793
+      title: ''
+      volume_number: 86
+      total_pages: 962
+    0c706722c01d4375a53cc48d45e7d5ed:
+      image_group_id: I3794
+      title: ''
+      volume_number: 87
+      total_pages: 802
+    3f69ea25d987460a9a8bca309144bfbe:
+      image_group_id: I3795
+      title: ''
+      volume_number: 88
+      total_pages: 808
+    fc8e51801c5f46c3807b1ec9e8b75cc2:
+      image_group_id: I3796
+      title: ''
+      volume_number: 89
+      total_pages: 692
+    2bf23e99a8bb4ff09afa5274e93f2499:
+      image_group_id: I3797
+      title: ''
+      volume_number: 90
+      total_pages: 672
+    3ff0e6ee85f04cb7a53956d7392bc2c4:
+      image_group_id: I3798
+      title: ''
+      volume_number: 91
+      total_pages: 684
+    dbe00bf863ba4569ad43f6fd98bb3099:
+      image_group_id: I3799
+      title: ''
+      volume_number: 92
+      total_pages: 822
+    8ebcdd924e5d478baff068a6504fec78:
+      image_group_id: I3800
+      title: ''
+      volume_number: 93
+      total_pages: 1006
+    4f277db533a2445780929640a11e0d8a:
+      image_group_id: I3801
+      title: ''
+      volume_number: 94
+      total_pages: 950
+    0f343319ffb24bf6bdbd4aee48795c66:
+      image_group_id: I3802
+      title: ''
+      volume_number: 95
+      total_pages: 1020
+    926d47509534468baf2d926bfd249957:
+      image_group_id: I3803
+      title: ''
+      volume_number: 96
+      total_pages: 960
+    c6994c14e147406485ba34305ed8ade6:
+      image_group_id: I3804
+      title: ''
+      volume_number: 97
+      total_pages: 988
+    c1e7041cecd7473da65b8521525270fd:
+      image_group_id: I3805
+      title: ''
+      volume_number: 98
+      total_pages: 766
+    aab747bfa51242ccac63fae239038aac:
+      image_group_id: I3806
+      title: ''
+      volume_number: 99
+      total_pages: 820
+    361421e701094a2ab5194117b40284d4:
+      image_group_id: I3807
+      title: ''
+      volume_number: 100
+      total_pages: 732
+    9afc5f08fd2c468caf6f6a9a34a7acae:
+      image_group_id: I3808
+      title: ''
+      volume_number: 101
+      total_pages: 946
+    fe6604408fb74aa2a487547163befbd5:
+      image_group_id: I3809
+      title: ''
+      volume_number: 102
+      total_pages: 1038
+    2892dbb7e03744f18a68233cefa6e2c7:
+      image_group_id: I3810
+      title: ''
+      volume_number: 103
+      total_pages: 1156
+    255d7616557644e995dca5fb5523c309:
+      image_group_id: I3811
+      title: ''
+      volume_number: 104
+      total_pages: 886
+    556429702a5a440ba87ae5c1253ed5f8:
+      image_group_id: I3812
+      title: ''
+      volume_number: 105
+      total_pages: 854
+    8ce0d9bdb8f34c43b75f52a58cf8ad35:
+      image_group_id: I3813
+      title: ''
+      volume_number: 106
+      total_pages: 1038
+    99492610e5de45f9bf43e44c951e25ec:
+      image_group_id: I3814
+      title: ''
+      volume_number: 107
+      total_pages: 1100
+    ba7b6a86e2ed40fdacbb21740a994b77:
+      image_group_id: I3815
+      title: ''
+      volume_number: 108
+      total_pages: 848
+    1b051f51033c42419709649f03068559:
+      image_group_id: I3816
+      title: ''
+      volume_number: 109
+      total_pages: 1048
+major_versions:
+- raw-ocr:
+  - commit: https://github.com/OpenPecha/P000003/commit/5563836e818880aef9689ca37828c53d152e4acc
+  - description: Google OCR
